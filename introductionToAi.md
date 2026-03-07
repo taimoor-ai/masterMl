@@ -297,14 +297,3 @@ Email classified as **Spam or Not Spam**
 ✅ **In one sentence:**
 
 > Artificial Intelligence is the science of building machines that can learn, think, and make decisions like humans.
-
----
-
-If you want, I can also explain:
-
-* **AI vs Machine Learning vs Deep Learning (most confusing concept)**
-* **How AI models are trained step by step**
-* **Complete AI roadmap for beginners**
-* **Top 10 algorithms used in AI**
-
-Just tell me.
