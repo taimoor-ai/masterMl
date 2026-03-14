@@ -14,7 +14,7 @@ Web Scraping is the automated process of extracting data from websites. While AP
 * **Custom Data:** You can choose exactly which fields you want to collect.
 * **Automation:** Convert thousands of web pages into a single CSV file.
 
-### The Scraping Workflow
+### The Scraping Workflow![1773416994763](image/notes/1773416994763.png)
 
 ```mermaid
 graph LR
@@ -110,7 +110,7 @@ for j in range(1, 11): # Scraping first 10 pages
 
 ---
 
-## 🌍 Real-World Applications
+## 🌍 Real-World Application
 
 * **Lead Generation:** Scraping LinkedIn or Yellow Pages for business contacts.
 * **Price Intelligence:** Scraping Amazon/Flipkart to track competitor pricing.
