@@ -1,4 +1,3 @@
-
 # Exploratory Data Analysis (EDA) - Univariate Analysis
 
 In the previous session, we learned how to ask basic questions of our dataset. Today, we begin the actual process of **Exploratory Data Analysis (EDA)**. The primary goal of EDA is to understand the data's internal structure, detect outliers, and identify patterns.
