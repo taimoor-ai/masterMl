@@ -1,12 +1,8 @@
-
 ---
-
 # **Data Challenges in Machine Learning**
 
 Machine learning is fundamentally about  **learning from data** , making the **availability and quality of data** the most significant hurdles for practitioners. Key data-related challenges include:
-
 ---
-
 ## 1. **Data Collection and Sufficiency**
 
 * Gathering data is often the first major obstacle, as professional environments rarely provide the ready-made datasets found in academic settings.
@@ -52,10 +48,6 @@ Machine learning is fundamentally about  **learning from data** , making the **a
 * These challenges arise from how a model interacts with its data:
   * **Overfitting** : The model memorizes the training data—including its noise—rather than learning general patterns, leading to poor performance on new data.
   * **Underfitting** : The model is too simple to capture the underlying patterns in the data, resulting in inaccurate predictions.
-
-
-
-
 
 # **Software Integration and Deployment in Machine Learning**
 
